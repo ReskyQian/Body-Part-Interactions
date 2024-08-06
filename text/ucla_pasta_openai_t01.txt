@@ -1,0 +1,10 @@
+pick up with one hand; head: tilts slightly forward; hand: reaches down and grasps object with one hand; arm: extends and lifts object; hip: remains stationary; leg: remains stationary; foot: remains stationary.
+pick up with two hands; head: tilts slightly forward; hand: grasps object with two hands; arm: extends forward; hip: remains stationary; leg: remains stationary; foot: remains stationary.
+drop trash; head: turns to the side to see the trash can; hand: opens and lets go of the trash; arm: arm extends to reach the trash can; hip: moves to the side to help balance; leg: bends to help lower the body; foot: moves to the side to help balance.
+walk around; head: moves from side to side; hand: swings back and forth; arm: moves back and forth; hip: moves from side to side; leg: moves back and forth; foot: moves back and forth.
+sit down; head: tilts forward; hand: supports body; arm: dangles; hip: supports body; leg: bends at knee; foot: rests on floor.
+stand up; head: tilts his head back; hand: grabs the chair with his hands; arm: pushes up with his arms; hip: lifts up his hips; leg: straightens out his legs; foot: pushes off with his feet.
+donning; head: lifts his head; hand: raises his hand; arm: extends his arm; hip: thrusts his hip; leg: kicks his leg; foot: stamps his foot.
+doffing; head: tilts his head forward; hand: reaches up with his hand; arm: bends his arm at the elbow; hip: shifts his hip to the side; leg: lifts his leg at the knee; foot: steps forward with his foot.
+throw; head: tilted back; hand: holding the ball behind him; arm: extended; hip: rotated; leg: extended; foot: pointing.
+carry; head: tilts his head slightly forward; hand: grasps the object securely with his hand; arm: supports the object; hip: lifts the object; leg: steps forward with his leg;foot: pushes off with his foot.
